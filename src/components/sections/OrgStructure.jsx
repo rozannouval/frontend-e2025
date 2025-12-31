@@ -6,33 +6,23 @@ import Image from "next/image";
 const structure = [
   {
     role: "Ketua Kelas",
-    name: "Nama Ketua",
+    name: "Rozan Nouval",
     image: "https://placehold.co/300x300/png?text=Ketua",
   },
   {
     role: "Wakil Ketua",
-    name: "Nama Wakil",
+    name: "Janice",
     image: "https://placehold.co/300x300/png?text=Wakil",
   },
   {
-    role: "Sekretaris 1",
-    name: "Nama Sekretaris 1",
+    role: "Sekretaris",
+    name: "Devina",
     image: "https://placehold.co/300x300/png?text=Sekretaris+1",
   },
   {
-    role: "Sekretaris 2",
-    name: "Nama Sekretaris 2",
-    image: "https://placehold.co/300x300/png?text=Sekretaris+2",
-  },
-  {
-    role: "Bendahara 1",
-    name: "Nama Bendahara 1",
+    role: "Bendahara",
+    name: "Raisha",
     image: "https://placehold.co/300x300/png?text=Bendahara+1",
-  },
-  {
-    role: "Bendahara 2",
-    name: "Nama Bendahara 2",
-    image: "https://placehold.co/300x300/png?text=Bendahara+2",
   },
 ];
 

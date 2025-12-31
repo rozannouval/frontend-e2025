@@ -18,13 +18,13 @@ export default function ChairmanWelcome() {
           >
             <div className="relative w-full max-w-md aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="https://placehold.co/400x500/png?text=Chairman+Photo"
+                src="/images/chairman.png"
                 alt="Chairman of E2025"
                 fill
-                className="object-cover hover:scale-105 transition-transform duration-500"
+                className="object-cover hover:scale-105 transition-transform duration-500 -scale-x-100"
               />
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6">
-                <h3 className="text-white text-xl font-bold">Nama Ketua</h3>
+                <h3 className="text-white text-xl font-bold">Rozan Nouval</h3>
                 <p className="text-white/80">Ketua Kelas E2025</p>
               </div>
             </div>
